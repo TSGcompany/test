@@ -7,4 +7,8 @@ public class A {
 
         System.out.print("cc");
     }
+    public void  Test03(){
+        System.out.print("撒大大");
+
+    }
 }
