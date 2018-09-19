@@ -1,0 +1,2 @@
+public class Ya2 {
+}
